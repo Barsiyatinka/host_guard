@@ -1,4 +1,0 @@
-CHANGE MASTER TO 
-MASTER_HOST='mysql-master',
-MASTER_USER='repl',
-MASTER_PASSWORD='slavepass';
