@@ -63,4 +63,4 @@
 <img src="img/screen_4.png" width="100%">    
 Особенности:  
 
-Сложнее интерпретировать — нет подтверждений как в TCP, часто получаем ICMP Port Unreachable  
+Сложнее интерпретировать — нет подтверждений как в TCP, часто получаем ICMP Destination Unreachable  
